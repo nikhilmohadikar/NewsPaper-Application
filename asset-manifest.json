@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nikhilmohadikar/NewsPaper-Application.git/static/css/main.073c9b0a.css",
+    "main.js": "/nikhilmohadikar/NewsPaper-Application.git/static/js/main.bb03a8c9.js",
+    "static/js/787.d5ee595e.chunk.js": "/nikhilmohadikar/NewsPaper-Application.git/static/js/787.d5ee595e.chunk.js",
+    "index.html": "/nikhilmohadikar/NewsPaper-Application.git/index.html",
+    "main.073c9b0a.css.map": "/nikhilmohadikar/NewsPaper-Application.git/static/css/main.073c9b0a.css.map",
+    "main.bb03a8c9.js.map": "/nikhilmohadikar/NewsPaper-Application.git/static/js/main.bb03a8c9.js.map",
+    "787.d5ee595e.chunk.js.map": "/nikhilmohadikar/NewsPaper-Application.git/static/js/787.d5ee595e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bb03a8c9.js"
+  ]
+}
