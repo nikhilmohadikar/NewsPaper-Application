@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nikhilmohadikar/NewsPaper-Application.git/static/css/main.073c9b0a.css",
-    "main.js": "/nikhilmohadikar/NewsPaper-Application.git/static/js/main.bb03a8c9.js",
-    "static/js/787.d5ee595e.chunk.js": "/nikhilmohadikar/NewsPaper-Application.git/static/js/787.d5ee595e.chunk.js",
-    "index.html": "/nikhilmohadikar/NewsPaper-Application.git/index.html",
-    "main.073c9b0a.css.map": "/nikhilmohadikar/NewsPaper-Application.git/static/css/main.073c9b0a.css.map",
-    "main.bb03a8c9.js.map": "/nikhilmohadikar/NewsPaper-Application.git/static/js/main.bb03a8c9.js.map",
-    "787.d5ee595e.chunk.js.map": "/nikhilmohadikar/NewsPaper-Application.git/static/js/787.d5ee595e.chunk.js.map"
+    "main.css": "/NewsPaper-Application/static/css/main.073c9b0a.css",
+    "main.js": "/NewsPaper-Application/static/js/main.05de85d3.js",
+    "static/js/787.d5ee595e.chunk.js": "/NewsPaper-Application/static/js/787.d5ee595e.chunk.js",
+    "index.html": "/NewsPaper-Application/index.html",
+    "main.073c9b0a.css.map": "/NewsPaper-Application/static/css/main.073c9b0a.css.map",
+    "main.05de85d3.js.map": "/NewsPaper-Application/static/js/main.05de85d3.js.map",
+    "787.d5ee595e.chunk.js.map": "/NewsPaper-Application/static/js/787.d5ee595e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.bb03a8c9.js"
+    "static/js/main.05de85d3.js"
   ]
 }
