@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/NewsPaper-Application/static/css/main.073c9b0a.css",
-    "main.js": "/NewsPaper-Application/static/js/main.05de85d3.js",
-    "static/js/787.d5ee595e.chunk.js": "/NewsPaper-Application/static/js/787.d5ee595e.chunk.js",
-    "index.html": "/NewsPaper-Application/index.html",
-    "main.073c9b0a.css.map": "/NewsPaper-Application/static/css/main.073c9b0a.css.map",
-    "main.05de85d3.js.map": "/NewsPaper-Application/static/js/main.05de85d3.js.map",
-    "787.d5ee595e.chunk.js.map": "/NewsPaper-Application/static/js/787.d5ee595e.chunk.js.map"
+    "main.css": "/nikhilmohadikar/News-Application-React.git/static/css/main.5f0adca0.css",
+    "main.js": "/nikhilmohadikar/News-Application-React.git/static/js/main.19850681.js",
+    "static/js/787.d5ee595e.chunk.js": "/nikhilmohadikar/News-Application-React.git/static/js/787.d5ee595e.chunk.js",
+    "index.html": "/nikhilmohadikar/News-Application-React.git/index.html",
+    "main.5f0adca0.css.map": "/nikhilmohadikar/News-Application-React.git/static/css/main.5f0adca0.css.map",
+    "main.19850681.js.map": "/nikhilmohadikar/News-Application-React.git/static/js/main.19850681.js.map",
+    "787.d5ee595e.chunk.js.map": "/nikhilmohadikar/News-Application-React.git/static/js/787.d5ee595e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.05de85d3.js"
+    "static/css/main.5f0adca0.css",
+    "static/js/main.19850681.js"
   ]
 }
